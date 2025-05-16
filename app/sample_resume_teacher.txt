@@ -1,0 +1,20 @@
+Jane Smith
+-------------
+SUMMARY
+Dedicated Teacher with 5 years’ experience teaching STEM to high-school students. Expert in curriculum design and classroom management.
+
+SKILLS
+• Subjects: Math, Physics, Computer Science
+• Tools: Google Classroom, Scratch, LEGO Mindstorms
+• Soft Skills: Lesson Planning, Student Assessment
+
+EXPERIENCE
+Springfield High (Springfield) — Math & Robotics Teacher
+Aug 2019 – Present
+• Developed project-based learning units in robotics (LEGO EV3).
+• Improved math test scores by an average of 15% over two years.
+
+Little Stars (Denver) — Kindergarten Teacher
+Sep 2016 – Jun 2019
+• Led play-based curriculum for 20 children ages 4–6.
+• Engaged families through weekly learning updates.

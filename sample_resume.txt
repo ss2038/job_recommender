@@ -1,0 +1,45 @@
+John Doe
+123 Main St, Anytown, USA
+john.doe@example.com | (555) 123-4567 | linkedin.com/in/johndoe
+
+───────────────────────────────
+SUMMARY
+───────────────────────────────
+Data Scientist with 3+ years of experience designing and implementing 
+machine learning models and data-driven APIs. Expertise in Python, 
+pandas, scikit-learn, cloud platforms, and end-to-end ML pipelines.
+
+───────────────────────────────
+SKILLS
+───────────────────────────────
+• Programming: Python, SQL, JavaScript  
+• ML / Data: scikit-learn, pandas, NumPy, TensorFlow  
+• Cloud & APIs: AWS (S3, Lambda), REST API design  
+• Tools: Docker, Git, JIRA  
+
+───────────────────────────────
+EXPERIENCE
+───────────────────────────────
+Data Scientist | Acme Analytics, Remote  
+Jan 2022 – Present  
+- Built predictive models (classification & regression) using scikit-learn to forecast customer churn.  
+- Deployed model inference APIs with Flask and AWS Lambda, reducing batch processing time by 75%.  
+- Cleaned and analyzed 5M+ rows of sales data with pandas, delivering actionable insights to stakeholders.
+
+ML Engineer | WidgetWorks, San Francisco, CA  
+Jun 2020 – Dec 2021  
+- Designed end-to-end ML pipelines: data ingestion, feature engineering, model training, and monitoring.  
+- Wrote ETL scripts in Python to merge and transform data from SQL and NoSQL sources.  
+- Collaborated with frontend team to integrate model outputs into a React dashboard via REST APIs.
+
+───────────────────────────────
+EDUCATION
+───────────────────────────────
+B.S. in Computer Science  
+State University, 2016 – 2020  
+
+───────────────────────────────
+PROJECTS
+───────────────────────────────
+• Fraud Detection API – Trained a random forest classifier in scikit-learn and wrapped it in a FastAPI service.  
+• Sales Dashboard – Built an interactive dashboard with Streamlit to explore sales KPIs and ML forecasts.  

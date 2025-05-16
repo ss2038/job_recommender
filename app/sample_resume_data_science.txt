@@ -1,0 +1,19 @@
+Priya Patel
+-------------
+SUMMARY
+Data Scientist with 3+ years’ experience in predictive modeling, data cleaning, and dashboarding.
+
+SKILLS
+• Languages: Python, R, SQL
+• ML: scikit-learn, TensorFlow, XGBoost
+• Visualization: Tableau, PowerBI, Matplotlib
+
+EXPERIENCE
+DataVista (SF) — Data Scientist
+Jan 2021 – Present
+• Built customer-churn model improving retention by 8%.
+• Automated ETL workflows with Airflow and AWS Lambda.
+
+DeepAI (Seattle) — ML Intern
+Jun 2020 – Dec 2020
+• Developed NLP pipeline for sentiment analysis using spaCy.

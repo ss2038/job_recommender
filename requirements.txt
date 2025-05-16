@@ -1,0 +1,14 @@
+python-dotenv
+requests
+beautifulsoup4
+pandas
+spacy
+sentence-transformers
+pdfminer.six
+python-docx
+torch
+scikit-learn
+streamlit
+boto3
+PyPDF2
+python-docx

@@ -1,0 +1,21 @@
+John Doe
+-------------
+SUMMARY
+Experienced Software Engineer skilled in Python, Go, microservices, and AWS. Built CI/CD pipelines and REST APIs.
+
+SKILLS
+• Languages: Python, Go, Java, SQL
+• Frameworks: Flask, Spring, React
+• DevOps: Docker, Kubernetes, Terraform, Jenkins
+
+EXPERIENCE
+Acme Inc (Remote) — Senior Software Engineer
+Jan 2021 – Present
+• Designed and shipped 10+ RESTful microservices in Go.
+• Automated deployments with Terraform + AWS CodePipeline.
+• Mentored 3 junior engineers in modern backend best practices.
+
+ByteWorks (Toronto) — Backend Developer
+Jun 2018 – Dec 2020
+• Built Spring Boot services with PostgreSQL and Redis.
+• Reduced API response times by 40% via query optimization.

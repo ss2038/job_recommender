@@ -1,0 +1,20 @@
+service: job-recommender
+
+provider:
+  name: aws
+  runtime: python3.9
+  environment:
+    S3_BUCKET: ${env:S3_BUCKET}
+
+functions:
+  scrapeJobs:
+    handler: lambda_scrape.handler
+    events:
+      - schedule: rate(1 day)
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
